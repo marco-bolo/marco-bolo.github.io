@@ -1,0 +1,6 @@
+# robots.txt for lab.marcobolo-project.eu
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://lab.marcobolo-project.eu/csv-to-json-ld/sitemap.xml
